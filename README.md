@@ -1,6 +1,6 @@
 # Jumpstart Haven Game
 
-A simple platformer made in Godot for Jumpstart Haven.
+A simple fall-themed platformer made in Godot with a pumpkin sprite for Jumpstart Haven.
 
 ## How to Play
 
